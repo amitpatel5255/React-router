@@ -1,0 +1,13 @@
+.line1_right p,
+.line1_right1 p {
+    padding-top: 10px;
+}
+
+.line1_right,
+.line1_right1 {
+    padding-left: 5px;
+}
+
+.page1_1 {
+    background-image: url(./);
+}

@@ -1,0 +1,23 @@
+.input_fill {
+    border-radius: 10px;
+}
+
+.edit {
+    width: 100px;
+    background-color: green;
+}
+
+.delet {
+    width: 100px;
+    background-color: red;
+}
+
+.amit2,
+.age2 {
+    border: 2px solid black;
+    width: 50%PX;
+}
+
+.mb-3 {
+    width: 200px;
+}
